@@ -4,7 +4,12 @@
 🔭 I’m currently working on :
 - Phase 2 of Aligulac Analytics
 
-🌱 Having fun in Python.  Interested in scraping and automation after picking up various Machine Learning bits and pieces.
+## Skills:
+Development: Python (Pandas, Numpy, Requests, etc), R, SQL, Git, Docker, Cloud (AWS, GCP, Azure), JSON
+
+Tools:  AirByte, dbt, PySpark, Apache Kafka - Confluent, MageAI, Airflow, Prefect, Terraform
+Data Infrastructure:  PostgreSQL, Snowflake, Databricks, BigQuery
+Visualization & ML:  Python (matplotlib, Altair, ggplot, Folium, etc), Streamlit, Tableau, PowerBI, Scikit-Learn, Tensorflow
 
 ## Projects
 Here are some projects developed during my spare time:
