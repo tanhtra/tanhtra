@@ -1,6 +1,8 @@
 ## Hello traveller! 
 # My name is Nick Tantra
 
+I am an analytics engineer with years of experience as a systems analyst and front-end developer.  I love problem solving and building sustainable systems.
+
 🔭 I’m currently working on :
 - Phase 2 of Aligulac Analytics
 
