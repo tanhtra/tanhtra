@@ -5,11 +5,13 @@
 - Phase 2 of Aligulac Analytics
 
 ## Skills:
-Development: Python (Pandas, Numpy, Requests, etc), R, SQL, Git, Docker, Cloud (AWS, GCP, Azure), JSON
+__Development__: Python (Pandas, Numpy, Requests, etc), R, SQL, Git, Docker, Cloud (AWS, GCP, Azure), JSON
 
-Tools:  AirByte, dbt, PySpark, Apache Kafka - Confluent, MageAI, Airflow, Prefect, Terraform
-Data Infrastructure:  PostgreSQL, Snowflake, Databricks, BigQuery
-Visualization & ML:  Python (matplotlib, Altair, ggplot, Folium, etc), Streamlit, Tableau, PowerBI, Scikit-Learn, Tensorflow
+__Tools__:  AirByte, dbt, PySpark, Apache Kafka - Confluent, MageAI, Airflow, Prefect, Terraform
+
+__Data Infrastructure__:  PostgreSQL, Snowflake, Databricks, BigQuery
+
+__Visualization & ML__:  Python (matplotlib, Altair, ggplot, Folium, etc), Streamlit, Tableau, PowerBI, Scikit-Learn, Tensorflow
 
 ## Projects
 Here are some projects developed during my spare time:
